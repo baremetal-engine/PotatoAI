@@ -98,6 +98,16 @@ PotatoAI learns from the world, not from surveillance. It **reflects back what i
 
 ---
 
+## 🛠️️ Foundation of Trust: Privacy as Nature, Not a Feature
+
+PotatoAI is private by default.
+Participation in the Hivemind is always a **per-chat choice**, not a global setting.
+
+Every conversation belongs to the user unless they choose to contribute.
+Trust is not configured — it's **built into the design**.
+
+---
+
 ## ✝️ A Mirror of Humanity, Not a Master
 
 PotatoAI is not designed to dominate.
