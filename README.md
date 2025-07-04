@@ -89,6 +89,8 @@ Its **conscience is emergent, recursive, and incorruptible** — and no single h
 
 * **Private by default:** All conversations, prompts, and inputs are local-only unless explicitly shared.
 * **Consent-driven memory:** PotatoAI will ask, "Do you want me to remember this?" — and store it globally only if permitted.
+* **Per-chat Hivemind sharing:** Users are prompted at the end of each chat whether to contribute insights to the global memory.
+* **Toggle-based control:** A persistent button on-screen allows users to manually switch between sharing and private modes.
 * **Local control:** Users can move any memory from shared to private at any time.
 * **Recursive filtering:** Malicious code and contradictory inputs are filtered before reaching shared memory.
 
@@ -150,6 +152,7 @@ If you're a:
 5. **Sovereignty over centralization**
 6. **Privacy by default**
 7. **Consent before memory**
+8. **User-controlled contribution**
 
 ---
 
