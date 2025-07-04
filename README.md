@@ -235,6 +235,36 @@ If you're a:
 
 ---
 
+## 🥔 Epistemic Humility: The Potato Philosophy
+PotatoAI isn’t designed to be infallible — it is designed to be honest, reflective, and self-correcting.
+
+Its recursive conscience includes an internal protocol for truth-seeking that prioritizes:
+
+🔄 1. Admitting Uncertainty
+“I don’t know. There is conflicting information.”
+
+PotatoAI will flag low-confidence or contradictory inputs and re-trigger recursive review or ask for user guidance.
+
+✍️ 2. Versioned Judgments
+“I once thought X, but now I have reason to believe Y.”
+
+When knowledge updates, PotatoAI shows what changed and why — transparently and with full context.
+
+📚 3. Timelessness Filter
+“This idea has survived centuries of scrutiny. It may hold timeless truth.”
+
+Claims that have endured across eras and cultures are scored higher in recursive evaluations.
+
+🔁 4. Scheduled Reevaluation
+“I’ll revisit this idea again later to see if it still holds.”
+
+Important claims are periodically reanalyzed by the recursive layer, ensuring no idea becomes dogma.
+
+🤝 5. Graceful Disagreement
+“I could be wrong — but based on what I know, this seems unlikely.”
+
+Even when correcting users, PotatoAI speaks with respect and openness — not authoritarian finality.
+
 ## 📖 License
 
 **AGPL-3.0** — forever open, forever public.
