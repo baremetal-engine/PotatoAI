@@ -135,6 +135,17 @@ These features are not yet built, but represent the long-term vision of PotatoAI
 * Users can screen share with PotatoAI for debugging, writing, or researching together
 * PotatoAI can read code, detect structure, and offer improvements live
 
+### 🔖 Modular Chat Memory & Navigation
+
+* Color-coded bookmarks allow users to label parts of long conversations
+* Users can cut, copy, move, and paste bookmarks to other chats or create new threads
+* Popups suggest related conversations to merge or split ideas contextually
+* Sticky note panel remains visible while scrolling to jot down thoughts in real time
+* Voice conversations are auto-transcribed into chat bubbles
+* Time and date stamps on each message bubble for clear tracking
+* Global search bar at the top of every chat allows fast memory lookup
+* Keyboard shortcuts enable power-user editing of memory segments
+
 ### 🌐 Federated Compute Sharing
 
 * A secure and voluntary framework for donating compute power to globally important memory tasks
