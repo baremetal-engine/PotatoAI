@@ -185,13 +185,13 @@ If you're a:
 
 ## 📌 Project Status
 
-*[ ] Codebase scaffolded (in progress)
+*[] Codebase scaffolded (in progress)
 
-*[ ] Memory module design (sketching phase)
+*[] Memory module design (sketching phase)
 
-*[ ] Recursive loop prototype
+*[] Recursive loop prototype
 
-*[ ] First contributor onboarding
+*[] First contributor onboarding
 
 ---
 
