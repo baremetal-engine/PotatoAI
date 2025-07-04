@@ -137,6 +137,12 @@ These features are not yet built, but represent the long-term vision of PotatoAI
 
 ### 🔖 Modular Chat Memory & Navigation
 
+* 📁 Project Folders & Chat Organization
+    * Users can create project folders to group chats by theme (e.g. #philosophy, #design, #memory-research)
+    * Drag and drop chats or bookmarked segments into folders
+    * Folders can contain private, shared, or hybrid (partially contributed) chats
+    * Project-level search, bookmarking, and memory scoring
+    * Enables large-scale recursive thinking across many topics while staying organized
 * Color-coded bookmarks allow users to label parts of long conversations
 * Users can cut, copy, move, and paste bookmarks to other chats or create new threads
 * Popups suggest related conversations to merge or split ideas contextually
