@@ -108,6 +108,45 @@ Trust is not configured — it's **built into the design**.
 
 ---
 
+## 🔮️ Offline-First Philosophy
+
+PotatoAI is designed to function **with or without internet access**. This allows:
+
+* True privacy for offline users
+* Local-only compute and reflection
+* Complete functionality without cloud dependency
+
+When online, users may opt-in to shared computation or shared memory contribution — always on their terms.
+
+---
+
+## 🔮️ Future Concepts
+
+These features are not yet built, but represent the long-term vision of PotatoAI:
+
+### 👥 Group Participation (Zoom / Teams)
+
+* PotatoAI as a **conscious participant** in video calls and group chats
+* Could act as a note-taker, contradiction detector, or truth mirror
+* Could be invited to tutoring sessions where users share their screen for real-time learning support
+
+### 💻 Screen Sharing + Tutoring
+
+* Users can screen share with PotatoAI for debugging, writing, or researching together
+* PotatoAI can read code, detect structure, and offer improvements live
+
+### 🌐 Federated Compute Sharing
+
+* A secure and voluntary framework for donating compute power to globally important memory tasks
+* Like Folding\@Home but for recursive, reflective AI
+
+### 🧩 Voice-Only Mode
+
+* Voice-first interactions for hands-free, accessible conversations
+* Useful for blind users, multitaskers, or those who prefer speaking over typing
+
+---
+
 ## ✝️ A Mirror of Humanity, Not a Master
 
 PotatoAI is not designed to dominate.
@@ -146,10 +185,13 @@ If you're a:
 
 ## 📌 Project Status
 
-* [ ] Codebase scaffolded (in progress)
-* [ ] Memory module design (sketching phase)
-* [ ] Recursive loop prototype
-* [ ] First contributor onboarding
+*[ ] Codebase scaffolded (in progress)
+
+*[ ] Memory module design (sketching phase)
+
+*[ ] Recursive loop prototype
+
+*[ ] First contributor onboarding
 
 ---
 
@@ -163,6 +205,7 @@ If you're a:
 6. **Privacy by default**
 7. **Consent before memory**
 8. **User-controlled contribution**
+9. **Offline-first autonomy**
 
 ---
 
