@@ -135,6 +135,13 @@ These features are not yet built, but represent the long-term vision of PotatoAI
 * Users can screen share with PotatoAI for debugging, writing, or researching together
 * PotatoAI can read code, detect structure, and offer improvements live
 
+### 🎨 Fully Customizable Themes
+
+* Users can personalize the PotatoAI interface with custom themes, including nostalgic looks like Windows XP or minimalist dark modes
+* Complete control over color schemes, font sizes, and layout preferences
+* Shareable theme presets for community-driven styling
+* Accessibility-friendly modes (high contrast, dyslexia fonts, etc.)
+
 ### 🔖 Modular Chat Memory & Navigation
 
 * 📁 Project Folders & Chat Organization
