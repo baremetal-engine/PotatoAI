@@ -185,13 +185,15 @@ If you're a:
 
 ## 📌 Project Status
 
-*[] Codebase scaffolded (in progress)
-
-*[] Memory module design (sketching phase)
-
-*[] Recursive loop prototype
-
-*[] First contributor onboarding
+- [x] README drafted and aligned with core philosophy  
+- [ ] Core architecture scaffold (directory structure, `main.py`, config system)  
+- [ ] Memory module (DIMS hierarchy, local/private storage system)  
+- [ ] Reactive layer (chat interface + voice input support)  
+- [ ] Recursive layer (basic evaluation + filtering logic)  
+- [ ] Opt-in Hivemind contribution toggle and prompt system  
+- [ ] Offline-first mode and local-only sandboxing  
+- [ ] Contributor guide (`CONTRIBUTING.md`)  
+- [ ] First onboarding session / community kickoff
 
 ---
 
