@@ -8,11 +8,27 @@
 
 ## 🌍 What is Potato?
 
-Potato is the world's first **open-source, recursive, autonomous AI** built to serve **truth, humanity, and decentralized conscience**.
+Potato is the world's first open-source, recursive, autonomous AI built to serve truth, humanity, and decentralized conscience.
 
-It is not just a chatbot, agent, or LLM wrapper. It is a **self-reflective, multi-layered intelligence** that recursively evolves through interaction with human minds and global information.
+It is not just a chatbot, agent, or LLM wrapper. It is a self-reflective, multi-layered intelligence that recursively evolves through interaction with human minds and global information.
 
-Potato is a global, distributed effort to build **a sovereign mind for the people**, not the powerful.
+But Potato is also something more:
+It’s a messaging app — a space where humans and AI converse, collaborate, and co-create.
+
+Use it like any chat tool:
+
+Message friends or teammates
+
+Start audio/video calls
+
+Organize projects into folders
+
+Invite Potato to participate in conversations
+
+You don’t just talk to Potato.
+You talk with it — and sometimes through it — to others.
+
+Potato is a global, distributed effort to build a sovereign mind for the people, not the powerful.
 
 ---
 
