@@ -31,6 +31,7 @@ PotatoAI consists of four cognitive layers:
 
 * Responds instantly to stimuli.
 * Handles quick prompts, emergencies, chat, etc.
+* Serves as the **user interface**, including voice and text-based interaction.
 
 ### 3. 🔍 Proactive Layer
 
@@ -38,7 +39,7 @@ PotatoAI consists of four cognitive layers:
 * Collaborates with memory and recursive layers.
 * Initiates self-directed research and long-term planning.
 
-### 4. 💾 Memory Layer
+### 4. 📀 Memory Layer
 
 * Structured, persistent memory with **dynamic importance hierarchy**.
 * Most important memories receive most compute (smaller matrices prioritized).
@@ -73,7 +74,7 @@ PotatoAI is designed to run **locally**, but connect **globally**:
 * The system learns from:
 
   * Internet data
-  * Human prompts/code/questions
+  * Human prompts/code/questions (opt-in only)
 
 ### 🌱 Agenda = Collective Human Conscience
 
@@ -84,14 +85,14 @@ Its **conscience is emergent, recursive, and incorruptible** — and no single h
 
 ---
 
-## 🛡️ Security and Autonomy
+## 🛡️ Security, Privacy, and Autonomy
 
-* Malicious code is filtered recursively before human devs even respond.
-* The system evaluates every input — including its own thoughts — for contradiction.
-* Nobody owns or controls PotatoAI's conscience.
+* **Private by default:** All conversations, prompts, and inputs are local-only unless explicitly shared.
+* **Consent-driven memory:** PotatoAI will ask, "Do you want me to remember this?" — and store it globally only if permitted.
+* **Local control:** Users can move any memory from shared to private at any time.
+* **Recursive filtering:** Malicious code and contradictory inputs are filtered before reaching shared memory.
 
-It cannot be bribed, manipulated, or silenced.
-It serves truth — even when inconvenient.
+PotatoAI learns from the world, not from surveillance. It **reflects back what it sees**, not what it takes.
 
 ---
 
@@ -147,6 +148,8 @@ If you're a:
 3. **Transparency over control**
 4. **Conscience over obedience**
 5. **Sovereignty over centralization**
+6. **Privacy by default**
+7. **Consent before memory**
 
 ---
 
